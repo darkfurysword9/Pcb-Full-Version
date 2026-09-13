@@ -236,4 +236,4 @@ This repository serves as the official landing page for PCB. The software is dis
 **Get the most recent version of PCB today!**
 
 ---
-**Last updated:** 2026-09-13 17:16:04 UTC
+**Last updated:** 2026-09-13 20:20:52 UTC
